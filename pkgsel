@@ -17,4 +17,6 @@ X  bridge-utils
 X  tunctl
 X  dmidecode
 X  zlib
+X  mdadm
+X  iperf
 O  unionfs
