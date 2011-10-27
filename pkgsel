@@ -19,4 +19,6 @@ X  dmidecode
 X  zlib
 X  mdadm
 X  iperf
+O  nfs-utils
 O  unionfs
+O  wget
