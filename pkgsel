@@ -1,6 +1,8 @@
-O  bin86
 O  modutils 
 O  squashfs-tools
+O  zile
+O  aufs
+X  bc
 X  git
 X  python
 X  lzma
@@ -11,7 +13,8 @@ X  gnutls
 X  lvm2
 X  libnl
 X  libvirt
-X  kvm 
+X  yajl
+X  qemu
 X  sysstat
 X  bridge-utils
 X  tunctl
@@ -19,6 +22,15 @@ X  dmidecode
 X  zlib
 X  mdadm
 X  iperf
+X  nodejs
 O  nfs-utils
 O  unionfs
 O  wget
+O  mine
+X  python-virtinst
+X  urlgrabber
+X  pycurl
+X  libusb-compat
+X  libusb
+X  nmap
+X  nut
